@@ -1,0 +1,9 @@
+    numpy
+    matplotlib
+    Pillow
+    kagglehub
+    tensorflow
+    scikit-learn
+    seaborn
+    keras
+    scikit-image
